@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\conn_open\\Scripts\\python.exe",
+    "python.venvFolders": ["conn_open"],
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}

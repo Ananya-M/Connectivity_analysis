@@ -1,0 +1,6 @@
+# Machine-specific data locations (template: config/paths.example.yaml).
+# Relative paths are resolved against the project root (open_source_data/).
+
+bids_root: "data/ds002680"          # BIDS dataset; *_eeg.set files are found at any depth
+results: "results"                  # per-recording CSVs and combined tables
+figures: "results/figures"          # saved plots
